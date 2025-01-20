@@ -6,8 +6,8 @@ import java.util.TreeSet;
 
 public class TestSortedSet {
 public static void main(String[] args) {
-    String[] colors = {"yellow", "green", "black", "tan", "grey",
-                     "white", "orange", "red", "green" };
+    String[] colors = {"yellow ", "green ", "black ", "tan ", "grey ",
+                     "white ", "orange ", "red ", "green " };
 
     SortedSet<String> tree = new TreeSet<>(Arrays.asList(colors));
 
