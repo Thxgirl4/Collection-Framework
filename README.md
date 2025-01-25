@@ -97,7 +97,7 @@ A classe HashMap é uma das implementações mais comuns da interface Map em Jav
 
 **Permite null**: Um HashMap pode armazenar um null como chave ou valor (desde que não haja mais de um null para as chaves).
 
-#### SortedMap e TreeMap
+#### 2.SortedMap e TreeMap
 A interface *SortedMap* estende a interface Map e fornece uma ordem para as chaves. 
 A classe *TreeMap* é a principal implementação de SortedMap e mantém as chaves ordenadas.
 
@@ -105,7 +105,7 @@ A classe *TreeMap* é a principal implementação de SortedMap e mantém as chav
 
 **Hashing e performance**: O HashMap usa o algoritmo de hashing para garantir acesso rápido aos dados, o que pode ser mais eficiente para buscas, inserções e remoções em grandes conjuntos de dados.
 
-#### Principais Métodos da Interface Map
+#### 4.Principais Métodos da Interface Map
 
 **size():** Retorna o número de mapeamentos (pares chave-valor) presentes no mapa. Essa é uma maneira rápida de verificar o tamanho de sua estrutura.
 
