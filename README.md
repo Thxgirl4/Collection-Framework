@@ -8,3 +8,5 @@ Vamos ver a hierarquia do framework Collection. O pacote java.util contém todas
 O Java Collections Framework é estruturado em torno de interfaces-chave: Collection, List, Set, Queue e Map. 
 Cada uma adaptada para tarefas específicas de gerenciamento de dados. 
 Implementações como ArrayList, HashSet e HashMap oferecem soluções práticas para trabalhar com essas coleções, dando aos desenvolvedores Java um conjunto versátil de ferramentas para tratamento eficiente de dados.
+![image](https://github.com/user-attachments/assets/b837604c-a17c-4302-93f3-a95c23e4f4e2)
+
